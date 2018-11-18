@@ -1,6 +1,6 @@
-#pytoolbar - a python toolbar demo in Tkinter
+# pytoolbar - a python toolbar demo in Tkinter
 
-##features
+## features
 - toolbar gui, run in window or unix/linux desktop, it's always on top of desktop
 - security protected login(predefined login user: pytoolbar/demo,test/test)
 - customized search bar, predefined google, github, oxford dictionary, bab.la English-Chinese dictionary, wikipedia search engines, easy to extend 
@@ -9,7 +9,7 @@
 - real time clock
 - timer with start/pause/reset button
 
-##tkinter gui demo 
+## tkinter gui demo 
 The main purpose of pytoolbar is to demo how easily to implement a toolbar in python/tkinter.
 
 abstracting and packing all codes into few class:
