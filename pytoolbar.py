@@ -285,8 +285,5 @@ if __name__ == "__main__":
         tool1.pack(side=tk.LEFT)
         link1 = Link(frame3)
         link1.pack(side=tk.LEFT)
-        
-        
-        
-        
+
         root.mainloop()
