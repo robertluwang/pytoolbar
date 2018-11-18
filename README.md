@@ -28,8 +28,12 @@ class Topmenu(tk.Menu)    init the top menu, only File/Exit as demo
 on Windows 
 - if you don't have python installed, download minipy27.7z and extract to path\pytoolbar\minipy27
 - if you have python2 or 3 installed, update pypath in pytoolbar.bat
+
 `set pypath=.\minipy27\python`
+
 - double click pytoolbar.bat to launch pytoolbar
 
 on unix/linux 
-python pytoolbar.py
+
+`python pytoolbar.py`
+
