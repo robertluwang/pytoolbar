@@ -24,3 +24,12 @@ class Tool(tk.Frame)      customized tool button, apply for window only
 class Link(tk.Frame)      customized link button, apply for all platforms
 class Topmenu(tk.Menu)    init the top menu, only File/Exit as demo
 ```
+## run pytoolbar
+on Windows 
+- if you don't have python installed, download minipy27.7z and extract to path\pytoolbar\minipy27
+- if you have python2 or 3 installed, update pypath in pytoolbar.bat
+`set pypath=.\minipy27\python`
+- double click pytoolbar.bat to launch pytoolbar
+
+on unix/linux 
+python pytoolbar.py
