@@ -29,7 +29,9 @@ on Windows
 - if you don't have python installed, download minipy27.7z and extract to path\pytoolbar\minipy27
 - if you have python2 or 3 installed, update pypath in pytoolbar.bat
 
-`set pypath=.\minipy27\python`
+```#set pypath=.\minipy27\python
+set pypath=<real path of python>
+```
 
 - double click pytoolbar.bat to launch pytoolbar
 
