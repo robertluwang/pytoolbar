@@ -9,6 +9,8 @@
 - real time clock
 - timer with start/pause/reset button
 
+https://github.com/robertluwang/pytoolbar/blob/master/pytoolbar.jpg
+
 ## tkinter gui demo 
 The main purpose of pytoolbar is to demo how easily to implement a toolbar in python/tkinter.
 
